@@ -1,0 +1,12 @@
+file_format: "1"
+id: offsetkey
+name: offsetkey
+type: shield
+url: https://github.com/a741725193/zmk-config-offsetkey
+features:
+  - keys
+  - pointer
+  - underglow
+siblings:
+  - offsetkey_left
+  - offsetkey_right
